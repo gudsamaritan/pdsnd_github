@@ -1,14 +1,14 @@
 ### Date created
-29th December, 2019
+11th September, 2019
 
 ### Project Title
-Bikeshare Project 3
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Using Python to calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyse
 
 ### Files used
-1. Bikeshare2.py
+1. bikeshare_2.py
 1. washington.csv
 1. new_york_city.csv
 1. chicago.csv
