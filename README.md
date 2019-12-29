@@ -1,17 +1,15 @@
 ### Date created
-This project was created on the 11th September, 2019
+11th September, 2019
 
 ### Project Title
 Bikeshare Project
 
 ### Description
-To use Python to calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyse
+Describe what your project is about and what it does
 
 ### Files used
-bikeshare_2.py
-washington.csv
-new_york_city.csv
-chicago.csv
+Include the files used
+
 ### Credits
-https://github.com/JunkoYanagi/PDSND_Github
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
